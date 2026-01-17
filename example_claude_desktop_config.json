@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+	"Tubist - menu bar player for YouTube": {
+	  "command": "/opt/homebrew/bin/node",
+	  "args": ["/path/to/tubist-mcp-server/index.js"] // Update this! See README.md how
+	}
+  }
+}
